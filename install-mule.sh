@@ -10,3 +10,4 @@ mvn install:install-file -Dfile=./mule-transport-vm-3.7.3.jar -DgroupId=org.mule
 mvn install:install-file -Dfile=./mule-module-scripting-3.7.3.jar -DgroupId=org.mule.modules -DartifactId=mule-module-scripting -Dversion=3.7.3 -Dpackaging=jar
 mvn install:install-file -Dfile=./mule-module-xml-3.7.3.jar -DgroupId=org.mule.modules -DartifactId=mule-module-xml -Dversion=3.7.3 -Dpackaging=jar
 mvn install:install-file -Dfile=./mule-tests-functional-3.7.3.jar -DgroupId=org.mule.tests -DartifactId=mule-tests-functional -Dversion=3.7.3 -Dpackaging=jar
+mvn install:install-file -Dfile=./mule-module-http-3.7.3.jar -DgroupId=org.mule.modules -DartifactId=mule-module-http -Dversion=3.7.3 -Dpackaging=jar
